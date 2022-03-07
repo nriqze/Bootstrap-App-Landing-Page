@@ -1,0 +1,47 @@
+body {
+    position: relative;
+    
+}
+
+#jumbotron {
+    background-image: url(background%20App.jpg);
+    text-align: center;
+}
+
+#formCenter {
+    margin: auto;
+}
+
+#appSummary {
+    text-align: center;
+    font-weight: normal;
+    height: 150px;
+    padding-top: 60px;
+    margin-bottom: 60px;
+}
+    
+.icon {
+    padding-right: 7px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #00FFFF;
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+
+#appStore-Img {
+    width: 200px;
+    
+}
+
+#appDownload {
+    font-size: 30px;
+    font-weight: 350;
+}
+
+#summaryFinal {
+    font-size: 22px;
+    font-weight: 400;
+}
